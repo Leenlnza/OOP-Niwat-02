@@ -1,0 +1,14 @@
+D:\Leen_\02_HelloWorld\02_HelloWorld\bin\Debug\net10.0\02_HelloWorld.exe
+D:\Leen_\02_HelloWorld\02_HelloWorld\bin\Debug\net10.0\02_HelloWorld.deps.json
+D:\Leen_\02_HelloWorld\02_HelloWorld\bin\Debug\net10.0\02_HelloWorld.runtimeconfig.json
+D:\Leen_\02_HelloWorld\02_HelloWorld\bin\Debug\net10.0\02_HelloWorld.dll
+D:\Leen_\02_HelloWorld\02_HelloWorld\bin\Debug\net10.0\02_HelloWorld.pdb
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.AssemblyInfoInputs.cache
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.AssemblyInfo.cs
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.dll
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\refint\02_HelloWorld.dll
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.pdb
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\02_HelloWorld.genruntimeconfig.cache
+D:\Leen_\02_HelloWorld\02_HelloWorld\obj\Debug\net10.0\ref\02_HelloWorld.dll
